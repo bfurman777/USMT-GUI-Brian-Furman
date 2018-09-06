@@ -1,4 +1,4 @@
-# USMT-UserStateMigrationTool-HarperCollege
+# USMT Harper College: Windows User-State Migration Tool
 
 Compose and execute batch files through Java to migrate user preferences and profiles between devices, with a single click.
 Utillized Java Swing as a GUI for the Windows User State Migration Tool.
